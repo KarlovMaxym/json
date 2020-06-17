@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "photo": "./img/post_logo_3.jpeg",
+      "photo": "https://static.tildacdn.com/tild3463-3532-4935-b937-613539333262/PicsArt_11-14-051826.jpeg",
       "followed": false,
       "fullname": "Svetlana D.",
       "location": {
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "photo": "Logo2",
+      "photo": "https://cdn1.flamp.ru/0aef09738d42475c131587c22cbe5679_1920.jpg",
       "followed": true,
       "fullname": "Sergei S.",
       "location": {
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "photo": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDWrbxmy5ENY9U_o-HTWB2ZnepNqwnIjUlVxwLmMaOtV6kUnL9&usqp=CAU",
       "followed": true,
       "fullname": "Max K.",
       "location": {
