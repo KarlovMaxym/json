@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "photo": null,
+      "photo": "null",
       "followed": true,
       "fullname": "Andrew T.",
       "location": {
