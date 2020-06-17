@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "photo": "Logo3",
+      "photo": Null,
       "followed": false,
       "fullname": "Svetlana D.",
       "location": {
