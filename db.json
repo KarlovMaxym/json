@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "photo": "Logo1",
+      "photo": "https://w7.pngwing.com/pngs/813/735/png-transparent-bird-of-prey-logo-beak-desktop-bird-animals-computer-logo.png",
       "followed": false,
       "fullname": "Dmitry K.",
       "location": {
