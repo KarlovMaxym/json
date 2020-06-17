@@ -1,1 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "photo": "https://w7.pngwing.com/pngs/813/735/png-transparent-bird-of-prey-logo-beak-desktop-bird-animals-computer-logo.png",
+      "followed": false,
+      "fullname": "Dmitry K.",
+      "location": {
+        "country": "Belarus",
+        "city": "Minsk"
+      },
+      "status": "I am looking for a job right now..."
+    },
+    {
+      "id": 2,
+      "photo": "Logo3",
+      "followed": false,
+      "fullname": "Svetlana D.",
+      "location": {
+        "country": "Belarus",
+        "city": "Minsk"
+      },
+      "status": "I am so pretty"
+    },
+    {
+      "id": 3,
+      "photo": "Logo2",
+      "followed": true,
+      "fullname": "Sergei S.",
+      "location": {
+        "country": "Ukraine",
+        "city": "Kyiv"
+      },
+      "status": "I like football!!!"
+    },
+    {
+      "id": 4,
+      "photo": "null",
+      "followed": true,
+      "fullname": "Andrew T.",
+      "location": {
+        "country": "United States",
+        "city": "Philadelphia"
+      },
+      "status": "I am free to help you to create good Video Production"
+    }
+  ]
+}
 
