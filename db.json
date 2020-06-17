@@ -54,6 +54,17 @@
         "city": "Dnipro"
       },
       "status": "I love my wife!!!"
+    },
+    {
+      "id": 5,
+      "photo": null,
+      "followed": true,
+      "fullname": "Max K.",
+      "location": {
+        "country": "Ukraine",
+        "city": "Dnipro"
+      },
+      "status": "I love my wife!!!"
     }
   ]
 }
