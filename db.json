@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "photo": "null",
+      "photo": null,
       "followed": true,
       "fullname": "Andrew T.",
       "location": {
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "photo": "null",
+      "photo": null,
       "followed": true,
       "fullname": "Max K.",
       "location": {
