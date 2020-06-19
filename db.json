@@ -58,10 +58,10 @@
   ],
   "users2": [
     {
-      "id": 1,
+      "id": 6,
       "photo": "https://w7.pngwing.com/pngs/813/735/png-transparent-bird-of-prey-logo-beak-desktop-bird-animals-computer-logo.png",
       "followed": false,
-      "fullname": "Dmitry K.",
+      "fullname": "qwe",
       "location": {
         "country": "Belarus",
         "city": "Minsk"
@@ -69,10 +69,10 @@
       "status": "I am looking for a job right now..."
     },
     {
-      "id": 2,
+      "id": 7,
       "photo": "https://static.tildacdn.com/tild3463-3532-4935-b937-613539333262/PicsArt_11-14-051826.jpeg",
       "followed": false,
-      "fullname": "Svetlana D.",
+      "fullname": "qwe",
       "location": {
         "country": "Belarus",
         "city": "Minsk"
@@ -80,10 +80,10 @@
       "status": "I am so pretty"
     },
     {
-      "id": 3,
+      "id": 8,
       "photo": "https://cdn1.flamp.ru/0aef09738d42475c131587c22cbe5679_1920.jpg",
       "followed": true,
-      "fullname": "Sergei S.",
+      "fullname": "qwe",
       "location": {
         "country": "Ukraine",
         "city": "Kyiv"
@@ -91,10 +91,10 @@
       "status": "I like football!!!"
     },
     {
-      "id": 4,
+      "id": 9,
       "photo": null,
       "followed": true,
-      "fullname": "Andrew T.",
+      "fullname": "qwe",
       "location": {
         "country": "United States",
         "city": "Philadelphia"
@@ -102,7 +102,7 @@
       "status": "I am free to help you to create good Video Production"
     },
     {
-      "id": 5,
+      "id": 10,
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDWrbxmy5ENY9U_o-HTWB2ZnepNqwnIjUlVxwLmMaOtV6kUnL9&usqp=CAU",
       "followed": true,
       "fullname": "Max K.",
