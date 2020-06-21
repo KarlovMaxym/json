@@ -118,7 +118,7 @@
     {
       "id": 3,
       "profileAvatar": "https://i.pinimg.com/564x/04/bb/21/04bb2164bbfa3684118a442c17d086bf.jpg",
-      "contentCover": "https://covertimeline.com/app/template/587.jpg",
+      "contentCover": "https://i.imgur.com/K08KGt2.jpg",
       "name": "Dmitry",
       "surname": "K.",
       "birthDate": "25.01.1995",
@@ -178,7 +178,7 @@
     {
       "id": 8,
       "profileAvatar": null,
-      "contentCover": "https://i.imgur.com/K08KGt2.jpg",
+      "contentCover": null,
       "name": "Richard",
       "surname": "H.",
       "birthDate": "22.02.2002",
