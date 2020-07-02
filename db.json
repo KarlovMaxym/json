@@ -238,7 +238,7 @@
       "id": 8
     }
   ],
-  "unloffow": [
+  "unfollow": [
     {
       "resultCode": 1,
       "messages": ["You are already unfollowed this user"],
